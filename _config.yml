@@ -1,6 +1,23 @@
-title: Minimal theme
+title: <p align="center"> Piyush Kumar Sinha </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sinhapiyush/">LinkedIn</a> |
+  <a href="https://github.com/SINHAPIYUSH">GitHub</a>
+  
+  <br>   
+  I have 9 years of experience in the development and deployment of
+  Artificial intelligence (Machine Learning, Deep learning) models on 
+  GPUs, cloud web services like AWS, and Real-Time Operating Systems (RTOS) 
+  like NPU (Neural Processing Unit) for various Industrial Automation and 
+  Automotive projects in companies like Schneider Electric, Siemens, Bosch, etc.
+  Currently, working at Schneider Electric on topics of innovation and exploration 
+  with a particular focus on integrating AI to solve real-world challenging problems.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
